@@ -1,0 +1,7 @@
+{
+  "name": "BizCard AI Scanner",
+  "description": "Scan physical business cards using AI, extract details, export to Google Sheets, and send via WhatsApp.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
